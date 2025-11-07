@@ -145,7 +145,7 @@ body {
 }
 
 .pet-footer {
-  background-color: #1e3932; /* Verde oscuro Starbucks */
+  background-color: #391e1e; /* Verde oscuro Starbucks */
   color: #f1f1f1;
   font-family: 'Poppins', sans-serif;
   padding: 40px 0 20px;
@@ -162,11 +162,11 @@ body {
 
 .footer-section h3 {
   font-size: 1.8em;
-  color: #d4e9e2; /* Verde claro Starbucks */
+  color: #e9d4d4; /* Verde claro Starbucks */
 }
 
 .footer-section h4 {
-  color: #b0d9cd;
+  color: #d9b0b0;
   margin-bottom: 10px;
 }
 
@@ -196,7 +196,7 @@ body {
 .footer-bottom {
   text-align: center;
   margin-top: 20px;
-  border-top: 1px solid #2e5549;
+  border-top: 1px solid #552e2e;
   padding-top: 15px;
   font-size: 0.9em;
   color: #c2c2c2;
