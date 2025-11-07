@@ -35,7 +35,7 @@ nav a.active {
 .hero {
   text-align: center;
   padding: 3rem 1rem;
-  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://i.pinimg.com/1200x/01/5e/15/015e15ef2cf1e8a0845d99551a505000.jpg');
+  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://i.pinimg.com/1200x/b0/2d/f7/b02df71e6d88426c32dd436dd7bfbf25.jpg');
   background-size: cover;
   color: white;
 }
@@ -45,7 +45,7 @@ nav a.active {
   margin-top: 1rem;
   padding: 0.8rem 1.5rem;
   background: #fff;
-  color: #af4c4c;
+  color: #af4c70;
   border-radius: 8px;
   text-decoration: none;
   transition: 0.3s;
@@ -142,4 +142,62 @@ footer {
 }
 body {
   font-family: "Times New Roman", Times, serif;
+}
+
+.pet-footer {
+  background-color: #1e3932; /* Verde oscuro Starbucks */
+  color: #f1f1f1;
+  font-family: 'Poppins', sans-serif;
+  padding: 40px 0 20px;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-section h3 {
+  font-size: 1.8em;
+  color: #d4e9e2; /* Verde claro Starbucks */
+}
+
+.footer-section h4 {
+  color: #b0d9cd;
+  margin-bottom: 10px;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin: 6px 0;
+}
+
+.footer-section a {
+  color: #f1f1f1;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-section a:hover {
+  color: #d4e9e2;
+}
+
+.footer-section p {
+  margin: 6px 0;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+  border-top: 1px solid #2e5549;
+  padding-top: 15px;
+  font-size: 0.9em;
+  color: #c2c2c2;
 }
