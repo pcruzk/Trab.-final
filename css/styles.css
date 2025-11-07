@@ -7,7 +7,7 @@ body {
 
 /* HEADER */
 header {
-  background-color: #af6b4c;
+  background-color: #af4c4c;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -45,7 +45,7 @@ nav a.active {
   margin-top: 1rem;
   padding: 0.8rem 1.5rem;
   background: #fff;
-  color: #4CAF50;
+  color: #af4c4c;
   border-radius: 8px;
   text-decoration: none;
   transition: 0.3s;
@@ -109,14 +109,14 @@ input, textarea, button {
 }
 
 button {
-  background-color: #4CAF50;
+  background-color: #af4c4c;
   color: white;
   cursor: pointer;
   border: none;
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #a04545;
 }
 
 /* FOOTER */
@@ -139,4 +139,7 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
   }
+}
+body {
+  font-family: "Times New Roman", Times, serif;
 }
