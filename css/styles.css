@@ -7,7 +7,7 @@ body {
 
 /* HEADER */
 header {
-  background-color: #4CAF50;
+  background-color: #af6b4c;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -35,7 +35,7 @@ nav a.active {
 .hero {
   text-align: center;
   padding: 3rem 1rem;
-  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('C:\Users\pamel\Downloads\85dfed4e9c85e247e94094511c622cf.jpg');
+  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://i.pinimg.com/1200x/01/5e/15/015e15ef2cf1e8a0845d99551a505000.jpg');
   background-size: cover;
   color: white;
 }
